@@ -1,0 +1,14 @@
+body{
+padding-left: 40%;
+}
+h1{
+padding-right: 80% !important;
+}
+div a{
+color: forestgreen;
+text-decoration: none;
+}
+div a:hover{
+text-decoration: none;
+color: rgb(61, 211, 61);
+}
